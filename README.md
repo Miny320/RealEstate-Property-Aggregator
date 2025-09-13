@@ -213,17 +213,6 @@ docker build -f Dockerfile_scraper -t scraper .
 docker run scraper scrape-olx
 ```
 
-## Authors
-
-- [@DEENUU1](https://www.github.com/DEENUU1)
-
-<!-- LICENSE -->
-
-## License
-
-See `LICENSE.txt` for more information.
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
